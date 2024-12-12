@@ -1,10 +1,10 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 12/12/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/69572917-1257-45d7-bf57-ff48a6e5a711)
+![image](https://github.com/Ashera2004/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/3dprinter0.png)
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
@@ -48,20 +48,16 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+![image](https://github.com/Ashera2004/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/3dprinter1.png)
+![image](https://github.com/Ashera2004/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/3dprinter2.png)
+![image](https://github.com/Ashera2004/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/3dprinter3.png)
+![image](https://github.com/Ashera2004/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/3dprinter4.png)
+![image](https://github.com/Ashera2004/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/3dprinter5.png)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
-
-## Output:
-
-### Name: 
-### Register Number:
+### Name: A S Siddarth
+### Register Number: 24010669
+### Department: CSE
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
